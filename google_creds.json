@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bnlog-trend",
+  "private_key_id": "99ccb4438795df1479880da62dec3f27f5d3c9b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3Dkx/dT/RFJSz\nCV2JDzMYc+1wabaoKdpZc0G7XUupHm1pP7CR3CRAmfzKj9w2QB8qBdjyQTrd4rdo\neRnT3/K8HtWRRM9paLqoc/GpIQLLLfHmwzIWrgmdN26mTppKCYBFg55I0HLCAPA3\ns3vwI9EvrJtij/oYy853cwEUNgGhr9lzbf/7V7/6Jmt+JeTTnxmXztrgVhKmIAV6\nEmvFx0c3ybNLilZER+dwvhMrM+uLdVeUbh75dMN4CIFcaEDotNp6vzJBxFyaHNIq\nj58jfW2tV+H3SgsLl4lrTE88+tXxWgI7COXfuQaegfAP33omXoODxRJqwsFJUvaZ\nOwoybVyjAgMBAAECggEADuU/d/moUpDxqVXq7Lhgvdh6at93SQd1feThOuf/EZ5p\nDxuVzcX+PzF96VURJBWjU43mluPpmzI+dBEH9ykt0n1R1JXRqNqoTFp5liZvre0p\nq3pDt6Zmyt++sGgMqayh6Zt/BEl4pRe4HwLgZBc4sj/sjvXMnJBCVzmeTgY3q2/a\nnpdfgMqHpiXledH1XgTr+ky8axNpFSafpvnuR4bsjkXWUeJ7ZpPhVZ+ELWm0TWOK\nSXkRw7S9TIo5oRqH+WEV45Y/IWlEp+DZPSpmJmi9BHTzd8cgqBiv2nqx/ga3pbXj\nqXTqYxeBaemKDeJhyKedm80NcdttoSKdrrPnaKAqzQKBgQDmHFRWgk0zfc6x67Ag\nq8Z0JKCPGiFznka2ARy7W6IduXpZzhc/OIUj+ATMkbbwMiLGYRBWWtHINJi13Bdx\nQ0ns9pQpD44cTVqpc4NjIw//mbfxEGhJPWlkneuAaYcujLDWnI8cyk8CYMzR0mBW\nGaBxqRabiUq9BfLXN/squwZ2DwKBgQDLprEq7NGHwbkWi+L1oBd35BnmTUAcVeDX\nMULR8JaHW1Pr6sgFMYLHHJw6BI1LBBL4Anj/sxo1XAWXxMMrjA1tGJFId2xbZjuM\nfeA1BKpLk3hjkM4iZUxE3H0+cycWHG2klvu5pFALvd+vCJEWIG/n4Nej9AtuXbfZ\n/4IZB8ekLQKBgAMInJQHY70qC2+NC+ViXltpoDRCw+4iSAxeN2LA8oIxz8sfTG8o\n75hpzKZlxWOlRZAX938r81gQWXMMU8LKgE7/cTSZX+Y/ntJdE35bF/rmq+YhsT5F\n8P3Clzg6K+4RLMOnjLt0b1Y4sHqTq3F3JQZalFG4naOgUHNF6anGjW9BAoGAAmCO\nvt6Gz5veSjoVyyI0Q+0AtGSAdBQ4jKqBiivRxgC16RIThaP/T82wsSiucYq5ofV9\nbhasHqVVV2EvmgmHepeH0p26QRLfbRNnE5dbWYh+JkNhdJtUGZWtTJZRhXuNeBdf\nFtqpKInt24AxGV4FkGJaggpuO7qSU9Qcs6gYl30CgYEAug6xk9T3er7JoQV8s0fR\nXMz8OxUU9PoXX6LH3GxqDv8kNoe0GZ91PtqckIZofKV4xRJD9B8llpO4vWSZ/0mv\ntqJsdurd00hBBhMDUgFYVnF3s/6wXd1gea7+VVQKnEZUGgcdVOrKXlaqFV9hq60e\nARYaNuKV+E8FmDwV9ziFEZU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crypto-trade-bot@bnlog-trend.iam.gserviceaccount.com",
+  "client_id": "115558319826699162038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crypto-trade-bot%40bnlog-trend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

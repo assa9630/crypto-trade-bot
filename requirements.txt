@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+python-dotenv
+binance
+gspread
+oauth2client
+notion-client
+pandas
+apscheduler
