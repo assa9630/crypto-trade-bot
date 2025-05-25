@@ -7,3 +7,4 @@ notion-client
 pandas
 apscheduler
 cryptography
+aiohttp
